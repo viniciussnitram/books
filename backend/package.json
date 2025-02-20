@@ -6,6 +6,9 @@
   "repository": "https://github.com/viniciussnitram/books",
   "author": "Vinicius Martins",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "express": "^4.21.2"
   },
