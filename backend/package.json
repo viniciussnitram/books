@@ -1,0 +1,12 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "API to manage books and their authors",
+  "main": "src/index.js",
+  "repository": "https://github.com/viniciussnitram/books",
+  "author": "Vinicius Martins",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
